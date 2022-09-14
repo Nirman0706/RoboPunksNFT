@@ -10,10 +10,10 @@ import UAuth from '@uauth/js'
 import './NavBar.css'
 
 const uauth = new UAuth({
-  clientID: '2d1c3334-fe0f-48b4-a635-af406cf595f2',
-  redirectUri: 'http://localhost:3000',
-  scope: 'openid wallet',
-})
+    clientID: "17da69dc-7ee1-4356-ab9c-a56c8a37ea12",
+    redirectUri: "https://subtle-belekoy-8d9992.netlify.app",
+    scope: "openid wallet"
+  })
 
 const NavBar = ({ userWallet, setUserWallet }) => {
   // const [userWallet, setUserWallet] = useState(null)
