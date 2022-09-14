@@ -17,4 +17,4 @@ https://youtu.be/pcBbmcTudbs
 (Gmail) jhanirman@gmail.com
 
 
-#link to live website: https://631f33e1864aab0f30641191--subtle-belekoy-8d9992.netlify.app/
+# link to live website: http://subtle-belekoy-8d9992.netlify.app
